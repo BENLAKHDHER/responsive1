@@ -6,7 +6,7 @@
 
 <strong>Tailwind CSS Checkpoint Exercise 1<strong>
 
-Project Overview:
+### Project Overview:
 
 Create a  webpage for your personal portfolio using Tailwind CSS. This exercise will focus on applying various Tailwind classes to structure the layout, style components, and make the webpage responsive.
 
