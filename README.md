@@ -34,8 +34,8 @@ Requirements:
   
 ### 5. Contact Form:
 
-Include a simple contact form with fields for name, email, and a message.
-Apply Tailwind classes for form styling, spacing, and responsiveness.
+- Include a simple contact form with fields for name, email, and a message.
+- Apply Tailwind classes for form styling, spacing, and responsiveness.
 
 ### 6. Footer:
 
