@@ -16,7 +16,7 @@ Requirements:
 
 - Design a header with your name and a navigation menu (at least three items: Home, Projects, Contact).
 - Use Tailwind classes for styling and responsiveness.
-- 
+  
 ### 2. Hero Section:
 
 - Create a hero section with a background image and a headline introducing yourself.
